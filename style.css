@@ -16,7 +16,7 @@ h2{
     justify-content: center;
 
 }
-.nav{
+.nav ul{
     display: flex;
     background-color: aqua;
     justify-content: center;
